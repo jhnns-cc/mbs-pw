@@ -33,7 +33,7 @@ An dieser Stelle soll kurz beschrieben werden, wie man zu sicheren Passwörtern 
 - Groß- und Kleinbuchstaben sowie Sonderzeichen und Zahlen enthalten.
 - nicht mit Dritten geteilt werden.
 - für jedes verwendete Benutzerkonto einzigartig sein.
-- Mithilfe der Internetseite [howsecureismypassword.net](https://howsecureismypassword.net/) kann getestet werden, wie „gut“ ein Passwort ist.
+- Mithilfe [dieser Internetseite](https://www.security.org/how-secure-is-my-password/) kann getestet werden, wie „gut“ ein Passwort ist.
 ## c) Weitere sinnvolle Maßnahmen
 - Das E-Mail-Konto sollte besonders geschützt werden, da man in der Regel mithilfe der E-Mail-Adresse andere Passwörter zurücksetzen kann. Hier sollte also ein besonders sicheres Passwort gewählt werden.
 - Oft dienen E-Mail-Adressen als Anmeldename. Hier ist es sinnvoll nicht für alle Dienste/Accounts dieselbe E-Mail-Adresse zu verwenden. E-Mail-Dienste bieten meist die Möglichkeit, E-Mail-Aliase anzulegen. Diese Möglichkeit sollte man nutzen.
