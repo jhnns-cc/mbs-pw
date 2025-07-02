@@ -42,13 +42,13 @@ An dieser Stelle soll kurz beschrieben werden, wie man zu sicheren Passwörtern 
 ## d) Wie erstelle ich sichere Passwörter
 Passwort-Manager bieten die Möglichkeit, sichere Passwörter generieren zu lassen. Wer sich nicht mit einem Passwort-Manager befassen will, kann sich auf anderem Wege sichere Passwörter ausdenken. Der Phantasie sind hier keine Grenzen gesetzt.
 
-So könnte man einen kurzen Bibelvers oder einen Teil eines Bibelverses nehmen, zum Beispiel:
+So könnte man eine Lied- oder Gedichtzeile oder einen kurzen Bibelvers oder einen Teil eines Bibelverses nehmen, zum Beispiel:
 
-1Joh 4,16: Gott ist Liebe
+```1Joh 4,16: Gott ist Liebe```
 
 Wandelt man diese Zeichenkombination um in
 
-1Joh\_4\_16-GottistLiebe
+```1Joh\_4\_16-GottistLiebe```
 
 hat man ein Passwort, dass sich schwer knacken lässt.
 ## e) Links
