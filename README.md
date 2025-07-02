@@ -1,4 +1,4 @@
-# Merkzettel für sicherere Passwörter
+# Merkzettel für sicherere Passwörter für Mitarbeiter des MBS
 
 ## 1\. Wie werden Passwörter gehackt?
 Im Folgenden soll zunächst kurz angerissen werden, wie Passwörter in falsche Hände geraten können. Das kann zum Selbstschutz beim Umgang mit Passwörtern sensibilisieren.
